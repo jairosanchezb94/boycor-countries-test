@@ -15,7 +15,20 @@ A web application that integrates with the REST Countries API to display country
 - Infinite scroll on mobile devices
 
 ### Screenshot
-![Country Explorer Screenshot](./screenshot.jpg)
+![Captura de pantalla 2025-04-25 111846](https://github.com/user-attachments/assets/73083af2-9140-4258-8692-b05f097db5b4)
+![Captura de pantalla 2025-04-25 111826](https://github.com/user-attachments/assets/44c335c7-33c4-40a0-96b7-4c34fd03934a)
+![Captura de pantalla 2025-04-25 111608](https://github.com/user-attachments/assets/c91161bc-16bc-4cd8-b2a9-532a5e2e104a)
+![Captura de pantalla 2025-04-25 111623](https://github.com/user-attachments/assets/137ae895-de14-438a-bac7-b37355640efe)
+![Captura de pantalla 2025-04-25 111720](https://github.com/user-attachments/assets/d8849825-54a1-4b37-9563-a8ee7e6d79a6)
+![Captura de pantalla 2025-04-25 111748](https://github.com/user-attachments/assets/c0502ef6-94cd-4978-8c15-074e54d52085)
+![Captura de pantalla 2025-04-25 112106](https://github.com/user-attachments/assets/2d49f9e5-a28f-4fb8-aaf0-7eb49f82d4f5)
+![Captura de pantalla 2025-04-25 112053](https://github.com/user-attachments/assets/c2c7923a-251c-4a96-b7de-60521533036b)
+![Captura de pantalla 2025-04-25 112029](https://github.com/user-attachments/assets/c2d5b6bb-79bd-450d-ae5a-ea606ecb8868)
+![Captura de pantalla 2025-04-25 112005](https://github.com/user-attachments/assets/c3a84ffa-5eb2-41c6-ac6c-469631e43aeb)
+![Captura de pantalla 2025-04-25 111931](https://github.com/user-attachments/assets/9815cf8a-dec7-43e2-b4d7-7bbafc342818)
+![Captura de pantalla 2025-04-25 111917](https://github.com/user-attachments/assets/989ef5bf-5a92-472e-9ed7-ca83e1099354)
+![Captura de pantalla 2025-04-25 111903](https://github.com/user-attachments/assets/a4fcd4cc-86e0-43a3-8aaa-49a08cbb9b20)
+
 
 ## Developed With
 
